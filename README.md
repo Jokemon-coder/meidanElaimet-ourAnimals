@@ -2,7 +2,7 @@
 
 ## Introduction
 <p>
-  This project is the first HTML, CSS and JavaScript project I've seriously invested my time into. It is also the first project I've made using these technologies after   not using them for an extended period of time. 
+  This project is the first HTML, CSS and JavaScript project I've seriously invested my time into. It is also the first project I've made using these technologies after not using them for an extended period of time. It's not the prettiest design-wise, but it works as intended. Improving planning and how finished sites and other projects look is a big priority for me. 
 </p>
 <p>
   I've put it up as a static page using Github Pages. It can be visited via the following link:
